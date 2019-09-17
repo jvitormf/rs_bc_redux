@@ -50,5 +50,5 @@ yarn add react-toastify
 //direcionar usuario pelas rotas reducer
 yarn add history
 
-//adiciona biblioteca
-yarn add prop-types
+//adiciona plugin hooks
+yarn add eslint-plugin-react-hooks -D
